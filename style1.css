@@ -1,0 +1,36 @@
+body{
+    background-image: url("обої до сайту.jpg");
+     background-repeat: no-repeat;
+     min-height:100vh;
+     background-position: center;
+     background-attachment: fixed;
+     text-align: center
+     
+ }
+ .zaholovok{
+     text-align: center;
+     font-size: 500%;
+     
+ }
+ .main-button{
+      min-height: 70px;
+      min-width: 40%;
+      padding: 15px 40px;      
+     font-size: 150%;
+     border-radius: 50px;
+     background-color:#809fff ;
+     
+ }
+ .main-button:hover {
+     background-color: #002699;
+ }
+ .text{
+     font-size: 25px;
+ }
+ .footer-section {
+     border: 4px dashed red; 
+     border-radius: 15px;       
+     padding: 20px;
+     background-color: #ffff66;
+     margin-top: 50px;
+ }    
