@@ -19,6 +19,8 @@ body{
      font-size: 150%;
      border-radius: 50px;
      background-color:#809fff ;
+     text-decoration: none;
+     color:black;
      
  }
  .main-button:hover {
@@ -33,4 +35,5 @@ body{
      padding: 20px;
      background-color: #ffff66;
      margin-top: 50px;
+
  }    
