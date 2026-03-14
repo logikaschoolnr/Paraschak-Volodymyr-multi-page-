@@ -1,0 +1,47 @@
+.headd{
+text-align: center;
+
+}
+.corobka1{
+    background-color: #ffff66;
+    width:250px;
+    height: 250px;
+    align-content: center;
+    border-radius: 25px;
+}
+.velyk{
+    width: 250px;
+    border-radius: 25px;
+}
+.pohyk{
+    height: 25px;
+    width: 200px;
+    border-radius: 50px;
+}
+.textvelyk{
+    text-align: center;
+}
+.corobka2{
+    background-color: #ffff66;
+    width:250px;
+    height: 250px;
+    align-content: center;
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.colyaska{
+    width: 250px;
+    height: 195px;
+    justify-content: center;
+    border-radius: 25px;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    gap:50px;
+}
+.textcolyaska{
+    text-align: center;
+}
